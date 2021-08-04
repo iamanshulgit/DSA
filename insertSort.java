@@ -1,6 +1,5 @@
-package insertSort;
 
-public class solution {
+public class insertSort {
 
 	public static void main(String agrs[]) {
 		int[] a = {6,4,2,5,3,1};

@@ -1,6 +1,8 @@
-Question: Merge 2 sorted array and sort the final solution?
+//Question: Merge 2 sorted array and sort the final solution?
 
-Solution:
+//Solution:
+public class mergeSortedArray{
+	public static void main(String args[]) {
         int[] a= new int[]{1,3,5};
         int[] b= new int[]{2,4,6};
         
@@ -41,3 +43,5 @@ Solution:
         for(int i=0;i<r.length; i++)
             System.out.print(r[i]+" ");
         
+}
+}

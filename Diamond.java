@@ -1,3 +1,4 @@
+/*
 Question: Write a question where you have to form diamond like structure from the playing cards in following pattern:
    1
   222
@@ -7,8 +8,11 @@ Question: Write a question where you have to form diamond like structure from th
    
    
 Solution:
+*/
+class Diamond{
+	public static void main(String args[]) {
         int count = 1;    //to print the number in the diamond
-        int n = 3;        //size or heigth
+        int n = 3;        //size or height
         int i;
         for(i = 0; i < n; i++){
             for(int j = 0; j < n-i; j++){             //for the space 
@@ -33,3 +37,5 @@ Solution:
             count--;
             System.out.println();                     //after each for loop go to next line   
         }
+}
+}
