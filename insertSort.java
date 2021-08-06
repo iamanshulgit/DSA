@@ -1,9 +1,8 @@
-
 public class insertSort {
 
 	public static void main(String agrs[]) {
 		int[] a = {6,4,2,5,3,1};
-
+		
 		for(int i = 0 ; i < a.length; i++) {
 			int temp = a[i];
 			int j = i- 1;
@@ -17,6 +16,7 @@ public class insertSort {
 		}
 		for(int q : a)
 			System.out.print(q + " ");
+	
 	}
 }
 
