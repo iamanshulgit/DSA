@@ -29,14 +29,7 @@ public class RemDupNode {
 		n.add(3);
 		n.add(4);
 		
-		Node show = n;
-		
-		while(show!=null) {
-			System.out.println(show.data);
-			show=show.next;
-		}
 		solution(n);
-		System.out.println();
 		while(n!=null) {
 			System.out.print(n.data);
 			n=n.next;
