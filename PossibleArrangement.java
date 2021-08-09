@@ -1,5 +1,6 @@
 /*
- * 
+ * Question: Find all the possible arrangements of the number in an array
+ * a={1,2} Solution: 1,2 and 2,1
  */
 public class PossibleArrangement {
 
