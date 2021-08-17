@@ -1,3 +1,4 @@
+.idea/
 /solution.class
 /insertSort.class
 /palindrom.class
@@ -16,3 +17,7 @@
 /KnightTour.class
 /AmazonMinMax.class
 /MicrosoftMinMax.class
+/NotMoreThanOneChange.class
+/StringCompression.class
+/RotateMatrix.class
+/ZeroMatrix.class
