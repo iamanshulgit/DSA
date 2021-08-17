@@ -1,2 +1,2 @@
-# java_solution
-Java solution for different type of interview question
+# Interview Questions/Solutions
+Solution for different type of interview question.
