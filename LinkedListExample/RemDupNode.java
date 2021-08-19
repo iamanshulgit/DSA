@@ -1,3 +1,7 @@
+/*
+ * Question: Remove the duplicate integer in a LinkdeList?
+ */
+
 package LinkedListExample;
 import java.util.*;
 public class RemDupNode {
