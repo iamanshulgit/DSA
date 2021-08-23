@@ -13,8 +13,7 @@ public class DeleteMiddleNode {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Node a = new Node();
-		a.add(1);
+		Node a = new Node(1);
 		a.add(2);
 		a.add(3);
 		a.add(4);

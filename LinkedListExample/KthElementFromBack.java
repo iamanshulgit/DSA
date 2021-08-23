@@ -26,8 +26,7 @@ public class KthElementFromBack {
 	}
 
 	public static void main(String[] args) {
-		Node a = new Node();
-		a.add(0);
+		Node a = new Node(0);
 		a.add(1);
 		a.add(2);
 		a.add(3);
@@ -35,7 +34,7 @@ public class KthElementFromBack {
 		a.add(5);
 		a.add(6);
 		a.add(7);
-		solution1(a,1);
+		solution1(a,4);
 		
 		int s =solution2(a,4);
 	}

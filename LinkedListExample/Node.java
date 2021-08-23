@@ -5,12 +5,9 @@ public class Node {
 	int data;
 
 	public Node(int d) {
-		// TODO Auto-generated constructor stub
 		this.data = d;
 	}
-	public Node() {
-		// TODO Auto-generated constructor stub
-	}
+
 	public void add(int d) {
 		Node end = new Node(d); 
 		Node n = this;
