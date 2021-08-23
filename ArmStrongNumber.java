@@ -14,7 +14,6 @@ public class ArmStrongNumber {
 	}
 
 	private static void checkArmstrng(int a) {
-		// TODO Auto-generated method stub
 		List<Integer> nums = new ArrayList<Integer>();
 		int count = 0, result = 0, val = a;
 		while(val>0) {
