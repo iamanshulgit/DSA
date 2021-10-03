@@ -1,7 +1,6 @@
 /*
  * If an element in an M*N matrix is 0then set entire row and column to 0.
  */
-
 import java.util.ArrayList;
 
 public class ZeroMatrix {
