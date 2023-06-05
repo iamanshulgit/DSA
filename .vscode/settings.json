@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "02-2023-Practice"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
