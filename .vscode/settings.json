@@ -3,5 +3,6 @@
         "02-2023-Practice"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "C_Cpp.errorSquiggles": "disabled"
 }
