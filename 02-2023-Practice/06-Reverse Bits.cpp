@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     uint32_t reverseBits(uint32_t n) {
-        long long ans = 0; // long long will help in storing a large data which not crosses limit
+        long long ans = 0; // long long will help in storing a large data which not crosses limit/bound
         int i=0;
         while(i<32){ //using loop till 32 just to cover all the bits even if its zero
 

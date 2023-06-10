@@ -106,22 +106,21 @@ while i<=n:
     print()
 '''
 #-----------------------------------------
-'''
-1
-21
-321
-4321
+# 
+# 1
+# 21
+# 321
+# 4321
+# 
+# i = 1
+# while i <= 4:
+#     j = i
+#     while j>0:
+#         print(j, end=" ")
+#         j -= 1
+#     i += 1
+#     print()
 
-i = 1
-while i <= 4:
-    j = 1
-    tp = i
-    while j<=tp:
-        print(tp, end=" ")
-        tp -= 1
-    i += 1
-    print()
-'''
 #-----------------------------------------
 '''
 AAA
@@ -260,24 +259,24 @@ while i <= n:
 # 12****21
 # 1******1
 
-i = 1
-while i<=n:
-    j = 1
-    while j <= n-i+1:
-        print(j, end=" ")
-        j +=1
+# i = 1
+# while i<=n:
+#     j = 1
+#     while j <= n-i+1:
+#         print(j, end=" ")
+#         j +=1
 
-    k = 0
-    while k < i*2-2:
-        print("*", end=" ")
-        k+=1
+#     k = 0
+#     while k < i*2-2:
+#         print("*", end=" ")
+#         k+=1
 
-    l = n-i+1
-    while l >= 1:
-        print(l,end=" ")
-        l-=1
-    i+=1
-    print()
+#     l = n-i+1
+#     while l >= 1:
+#         print(l,end=" ")
+#         l-=1
+#     i+=1
+#     print()
     
 
 
